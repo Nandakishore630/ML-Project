@@ -124,7 +124,7 @@ Real News
 
 ### Prediction Interface
 
-![Prediction App](images\Screenshot 2026-03-08 115158.png)
+![Prediction App](images/pic1.png)
 
 ---
 
