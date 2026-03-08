@@ -125,6 +125,7 @@ Real News
 ### Prediction Interface
 
 ![Prediction App](images/pic1.png)
+![Prediction App](images/pic2.png)
 
 ---
 
