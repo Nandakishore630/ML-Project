@@ -120,12 +120,12 @@ Real News
 
 ### Model Training
 
-![Training Graph](training_graph.png)
+![Training Graph](images/training.png)
 
 ### Prediction Interface
 
 ![Prediction App](images/pic1.png)
-![Prediction App](images/pic2.png)
+![Prediction App](images/pic3.png)
 
 ---
 
